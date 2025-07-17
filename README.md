@@ -1,6 +1,6 @@
 <table border="0" style="width:100%; min-width:250px; max-width:900px; margin:auto; display:block;">
   <tr>
-    <td style="width:80%; min-width:180px; vertical-align:top; text-align:center;">
+    <td style="width:800px; min-width:180px; vertical-align:top; text-align:center;">
       <img src="faysal.jpg" alt="Profile Background" style="max-width:90%; height:auto; border-radius:10px;" />
     </td>
     <td style="width:50%; min-width:180px; vertical-align:top;">
@@ -21,7 +21,7 @@
 </table>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(255, 255, 255, 0.93); padding:6px; margin:2px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
