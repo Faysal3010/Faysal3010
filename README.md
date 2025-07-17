@@ -1,4 +1,4 @@
-<table style="width:100%; min-width:250px; max-width:900px; margin:auto; display:block;">
+<table border="0" style="width:100%; min-width:250px; max-width:900px; margin:auto; display:block;">
   <tr>
     <td style="width:50%; min-width:180px; vertical-align:top; text-align:center;">
       <img src="faysal.jpg" alt="Profile Background" style="max-width:90%; height:auto; border-radius:10px;" />
@@ -44,7 +44,7 @@
 <a target="_blank" href="https://www.facebook.com/share/1GC3R9xeNK/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/faysal_mahmud_sajen" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@faysalmahmud7248" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Faysal3010&show_icons=true&locale=en" alt="GitHub Stats for Faysal Mahmud" />
@@ -54,7 +54,7 @@
     </td>
   </tr>
 </table>
-<table style="width:100%;">
+<table border="0" style="width:100%;">
   <tr>
     <td style="width:50%; vertical-align:top; text-align:center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faysal3010&show_icons=true&locale=en&layout=compact" alt="Top Languages Used by Faysal Mahmud" style="max-width:100%;" />
