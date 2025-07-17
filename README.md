@@ -76,7 +76,7 @@ I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language
     </td>
     <td style="width:50%; vertical-align:top; text-align:center;">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Faysal3010&" alt="GitHub Profile Trophy for Faysal Mahmud" style="max-width:100%;" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Jafrin-Alam-Prima" alt="Faysal" />
       </a>
     </td>
   </tr>
