@@ -1,24 +1,17 @@
-<table border="0" style="width:100%; min-width:250px; max-width:900px; margin:auto; display:block;">
-  <tr>
-    <td style="width:50%; min-width:180px; vertical-align:top; text-align:center;">
-      <img src="faysal.jpg" alt="Profile Background" style="max-width:90%; height:auto; border-radius:10px;" />
-    </td>
-    <td style="width:50%; min-width:180px; vertical-align:top;">
-      <h1 style="font-size:2em; margin-top:0;">Hi, I'm Faysal Mahmud</h1>
-      <p style="font-size:1em;">I'm an aspiring AI Engineer currently pursuing my BSc in Software Engineering at Daffodil International University. My journey revolves around exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on building intelligent systems that solve real-world problems. I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language Processing, and I’m always excited to dive into new challenges in the AI space.
-      <br>
-      <span style="display:block; text-align:left; margin-top:20px; font-size:1em;">
-        🌱 <b>Currently Learning:</b><br>
-        Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration.
-      </span>
-      <br>
-      <h4 style="margin-bottom:0;">
-            Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects! 🚀
-      </h4>
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="text-align:center; margin-bottom:18px;">
+  <img src="faysal.jpg" alt="Profile Background" style="max-width:180px; width:60%; height:auto; border-radius:12px; box-shadow:0 2px 12px rgba(0,0,0,0.08); margin-bottom:12px;" />
+</div>
+<div style="max-width:700px; margin:auto;">
+  <h1 style="font-size:2em; margin-top:0; text-align:center;">Hi, I'm Faysal Mahmud</h1>
+  <p style="font-size:1em;">I'm an aspiring AI Engineer currently pursuing my BSc in Software Engineering at Daffodil International University. My journey revolves around exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on building intelligent systems that solve real-world problems. I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language Processing, and I’m always excited to dive into new challenges in the AI space.</p>
+  <div style="margin-top:18px; font-size:1em;">
+    🌱 <b>Currently Learning:</b><br>
+    Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration.
+  </div>
+  <h4 style="margin-bottom:0; margin-top:18px;">
+    Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects! 🚀
+  </h4>
+</div>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
