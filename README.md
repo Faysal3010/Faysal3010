@@ -4,17 +4,17 @@
 
 <h1 align="center">Hi, I'm Faysal Mahmud</h1>
 
-<p align="center">
+<p>
 I'm an aspiring AI Engineer currently pursuing my BSc in Software Engineering at Daffodil International University.<br>
 My journey revolves around exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on building intelligent systems that solve real-world problems.<br>
 I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language Processing, and I’m always excited to dive into new challenges in the AI space.
 </p>
 
-<p align="center">
+<p>
 🌱 <b>Currently Learning:</b> Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration.
 </p>
 
-<p align="center">
+<p>
 <b>Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects! 🚀</b>
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
