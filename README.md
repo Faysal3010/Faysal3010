@@ -15,7 +15,7 @@ I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language
 </p>
 
 <p>
-<b>Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects! 🚀</b>
+<b>Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects!</b>
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
