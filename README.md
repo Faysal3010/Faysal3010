@@ -1,17 +1,22 @@
-<div style="text-align:center; margin-bottom:18px;">
-  <img src="faysal.jpg" alt="Profile Background" style="max-width:100px; width:60%; height:auto; border-radius:12px; box-shadow:0 2px 12px rgba(223, 223, 223, 0.52); margin-bottom:12px;" />
-</div>
-<div style="max-width:700px; margin:auto;">
-  <h1 style="font-size:2em; margin-top:0; text-align:center;">Hi, I'm Faysal Mahmud</h1>
-  <p style="font-size:1em;">I'm an aspiring AI Engineer currently pursuing my BSc in Software Engineering at Daffodil International University. My journey revolves around exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on building intelligent systems that solve real-world problems. I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language Processing, and I’m always excited to dive into new challenges in the AI space.</p>
-  <div style="margin-top:18px; font-size:1em;">
-    🌱 <b>Currently Learning:</b><br>
-    Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration.
-  </div>
-  <h4 style="margin-bottom:0; margin-top:18px;">
-    Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects! 🚀
-  </h4>
-</div>
+<p align="center">
+  <img src="faysal.jpg" alt="Profile Background" width="180" style="border-radius:12px;" />
+</p>
+
+<h1 align="center">Hi, I'm Faysal Mahmud</h1>
+
+<p align="center">
+I'm an aspiring AI Engineer currently pursuing my BSc in Software Engineering at Daffodil International University.<br>
+My journey revolves around exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on building intelligent systems that solve real-world problems.<br>
+I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language Processing, and I’m always excited to dive into new challenges in the AI space.
+</p>
+
+<p align="center">
+🌱 <b>Currently Learning:</b> Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration.
+</p>
+
+<p align="center">
+<b>Feel free to check out my repositories and connect with me if you're interested in collaborating on AI-powered projects! 🚀</b>
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
