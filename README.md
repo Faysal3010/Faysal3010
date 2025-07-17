@@ -1,6 +1,6 @@
 <table border="0" style="width:100%; min-width:250px; max-width:900px; margin:auto; display:block;">
   <tr>
-    <td style="width:800px; min-width:180px; vertical-align:top; text-align:center;">
+    <td style="width:50%; min-width:180px; vertical-align:top; text-align:center;">
       <img src="faysal.jpg" alt="Profile Background" style="max-width:90%; height:auto; border-radius:10px;" />
     </td>
     <td style="width:50%; min-width:180px; vertical-align:top;">
@@ -21,7 +21,7 @@
 </table>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(255, 255, 255, 0.93); padding:6px; margin:2px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
@@ -41,10 +41,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
 </p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/faysal-mahmud-300897226/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/share/1GC3R9xeNK/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/faysal_mahmud_sajen" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@faysalmahmud7248" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/faysal-mahmud-300897226/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+  <a target="_blank" href="https://www.facebook.com/share/1GC3R9xeNK/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+  <a target="_blank" href="https://www.instagram.com/faysal_mahmud_sajen" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+  <a target="_blank" href="https://www.youtube.com/@faysalmahmud7248" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
+  <a target="_blank" href="https://leetcode.com/u/faysalmahmud4300/" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="leetcode" width="110" height="28" style="vertical-align:middle; margin:0 4px; background:#fff; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.06); padding:2px 8px;" />
+  </a>
+  <a target="_blank" href="https://codeforces.com/profile/_Fx_" style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="codeforces" width="32" height="32" style="vertical-align:middle; margin:0 4px; background:#fff; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.06); padding:2px;" />
+  </a>
+</p>
 <table border="0">
   <tr>
     <td>
