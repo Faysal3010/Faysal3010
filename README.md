@@ -39,6 +39,7 @@
   <img src="https://simpleicons.org/icons/github.svg" alt="github" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="42" height="42" style="background:#f5f5f5; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:6px; margin:2px;" />
+</p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/faysal-mahmud-300897226/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/share/1GC3R9xeNK/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
