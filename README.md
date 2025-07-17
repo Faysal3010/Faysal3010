@@ -1,6 +1,6 @@
 <table border="0" style="width:100%; min-width:250px; max-width:900px; margin:auto; display:block;">
   <tr>
-    <td style="width:50%; min-width:180px; vertical-align:top; text-align:center;">
+    <td style="width:70%; min-width:180px; vertical-align:top; text-align:center;">
       <img src="faysal.jpg" alt="Profile Background" style="max-width:90%; height:auto; border-radius:10px;" />
     </td>
     <td style="width:50%; min-width:180px; vertical-align:top;">
