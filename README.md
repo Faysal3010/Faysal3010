@@ -42,15 +42,23 @@
 </p>
 <h2>⚡️ Where to find me</h2>
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/faysal-mahmud-300897226/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-  <a target="_blank" href="https://www.facebook.com/share/1GC3R9xeNK/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-  <a target="_blank" href="https://www.instagram.com/faysal_mahmud_sajen" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-  <a target="_blank" href="https://www.youtube.com/@faysalmahmud7248" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/faysal-mahmud-300897226/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" height="32" style="vertical-align:middle; margin:0 4px;" />
+  </a>
+  <a target="_blank" href="https://www.facebook.com/share/1GC3R9xeNK/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" height="32" style="vertical-align:middle; margin:0 4px;" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/faysal_mahmud_sajen" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" height="32" style="vertical-align:middle; margin:0 4px;" />
+  </a>
+  <a target="_blank" href="https://www.youtube.com/@faysalmahmud7248" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" height="32" style="vertical-align:middle; margin:0 4px;" />
+  </a>
   <a target="_blank" href="https://leetcode.com/u/faysalmahmud4300/" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="leetcode" width="110" height="28" style="vertical-align:middle; margin:0 4px; background:#fff; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.06); padding:2px 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="32" style="vertical-align:middle; margin:0 4px; background:#fff; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.06); padding:2px 8px; object-fit:contain;" />
   </a>
   <a target="_blank" href="https://codeforces.com/profile/_Fx_" style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="codeforces" width="32" height="32" style="vertical-align:middle; margin:0 4px; background:#fff; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.06); padding:2px;" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="codeforces" height="32" style="vertical-align:middle; margin:0 4px; background:#fff; border-radius:6px; box-shadow:0 2px 8px rgba(0,0,0,0.06); padding:2px;" />
   </a>
 </p>
 <table border="0">
