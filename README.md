@@ -65,7 +65,7 @@ I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language
       <img src="https://github-readme-stats.vercel.app/api?username=Faysal3010&show_icons=true&locale=en" alt="GitHub Stats for Faysal Mahmud" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faysal3010&" alt="GitHub Streak Stats for Faysal Mahmud" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faysal3010&" alt="GitHub Streak Stats for Faysal" />
     </td>
   </tr>
 </table>
@@ -76,7 +76,7 @@ I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language
     </td>
     <td style="width:50%; vertical-align:top; text-align:center;">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Faysal3010&" alt="GitHub Profile Trophy for Faysal Mahmud" style="max-width:100%;" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Faysal3010" alt="GitHub Profile Trophy for Faysal Mahmud" style="max-width:100%;"/>
       </a>
     </td>
   </tr>
