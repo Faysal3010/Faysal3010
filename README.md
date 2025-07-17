@@ -1,5 +1,5 @@
 <div style="text-align:center; margin-bottom:18px;">
-  <img src="faysal.jpg" alt="Profile Background" style="max-width:180px; width:60%; height:auto; border-radius:12px; box-shadow:0 2px 12px rgba(0,0,0,0.08); margin-bottom:12px;" />
+  <img src="faysal.jpg" alt="Profile Background" style="max-width:100px; width:60%; height:auto; border-radius:12px; box-shadow:0 2px 12px rgba(223, 223, 223, 0.52); margin-bottom:12px;" />
 </div>
 <div style="max-width:700px; margin:auto;">
   <h1 style="font-size:2em; margin-top:0; text-align:center;">Hi, I'm Faysal Mahmud</h1>
