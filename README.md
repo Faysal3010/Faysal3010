@@ -64,9 +64,9 @@ I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Faysal3010&show_icons=true&locale=en" alt="GitHub Stats for Faysal Mahmud" />
     </td>
-    <!-- <td>
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faysal3010&" alt="GitHub Streak Stats for Faysal" />
-    </td> -->
+    </td>
   </tr>
 </table>
 <table border="0" style="width:100%;">
