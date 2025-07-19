@@ -11,7 +11,8 @@ I aim to grow my skills in Machine Learning, Deep Learning, and Natural Language
 </p>
 
 <p>
-🌱 <b>Currently Learning:</b> Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration.
+<!-- 🌱 <b>Currently Learning:</b> Exploring Generative AI, NLP, and MLOps to enhance AI model deployment and integration. -->
+🌱 <b>Currently Learning:</b> Exploring Generative AI & NLP to enhance AI model deployment and integration.
 </p>
 
 <p>
