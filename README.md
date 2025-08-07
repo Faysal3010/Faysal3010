@@ -1,7 +1,6 @@
 	<!--<p align="center">
   <img src="faysal.jpg" alt="Profile Background" width="50%" style="border-radius:12px;" />
-</p>
--->
+</p>-->
 <h1 align="center">Hi, I'm Faysal Mahmud</h1>
 
 <p>
